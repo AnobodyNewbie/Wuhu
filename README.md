@@ -11,3 +11,6 @@ https://dh.cutecloud.link/<br/>
 https://acl4ssr-sub.github.io/<br/>
 机场推荐网站<br/>
 https://maomeng.top/2021/06/11/ji-chang-tui-jian-chang-qi-geng-xin/#!<br/>
+激活win11<br/>
+终端输入
+irm https://massgrave.dev/get | iex<br/>
